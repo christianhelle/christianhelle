@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianhelle&count_private=true)
 
-### 📙 Blog Posts
+### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 #### [Extending Visual Studio for Mac 2022](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;extending-vsmac.html)
 #### [Generate Refit interfaces from OpenAPI specifications using Refitter](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;refitter.html)
