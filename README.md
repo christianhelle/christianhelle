@@ -10,3 +10,5 @@
 #### [Generate REST API Clients using Visual Studio and Microsoft Kiota](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;02&#x2F;visual-studio-kiota.html)
 #### [AutoFaker - A Python library to minimize unit testing ceremony](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;10&#x2F;autofaker.html)
 <!--END_SECTION:feed-->
+
+[![](https://github.com/christianhelle/christianhelle/raw/main/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg)](https://mvp.microsoft.com/en-us/PublicProfile/5004822)
