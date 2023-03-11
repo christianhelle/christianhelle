@@ -15,4 +15,4 @@ jobs:
           feed-url: https://christianhelle.com/feed.xml
           readme-section: feed
           max: 5
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          template: "#### [{{ title }}]({{ link }})\n\n"
