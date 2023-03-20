@@ -4,6 +4,7 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [Publish Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/publish-vsmac-extensions-using-github-actions.html)
 #### [Build Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/build-vsmac-extensions-using-github-actions.html)
 #### [Extending Visual Studio for Mac 2022](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;extending-vsmac.html)
 #### [Generate Refit interfaces from OpenAPI specifications using Refitter](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;refitter.html)
