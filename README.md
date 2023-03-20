@@ -13,5 +13,3 @@
 #### [AutoFaker - A Python library to minimize unit testing ceremony](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;10&#x2F;autofaker.html)
 #### [Orchestrated ETL Design Pattern for Apache Spark and Databricks](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;09&#x2F;orchestrated-etl.html)
 <!--END_SECTION:feed-->
-
-[![](https://github.com/christianhelle/christianhelle/raw/main/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg)](https://mvp.microsoft.com/en-us/PublicProfile/5004822)
