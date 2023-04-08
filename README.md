@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Christian Resma Helle
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianhelle&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianhelle&count_private=true&include_all_commits=true)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
