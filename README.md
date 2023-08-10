@@ -1,6 +1,25 @@
 ## Hi 👋, I'm Christian Resma Helle
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianhelle&count_private=true&include_all_commits=true)
+<p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=christianhelle&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=christianhelle&show_icons=true&locale=en&show=discussions_answered"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kzu&show_icons=true&locale=en&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=christianhelle&theme=dark&card_width=200&hide_current_streak=true&hide_longest_streak=true"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=christianhelle&hide_current_streak=true&card_width=200&hide_longest_streak=true&hide_longest_streak=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianhelle&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
+</picture>
+</p>
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
