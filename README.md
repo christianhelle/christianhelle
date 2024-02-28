@@ -2,7 +2,14 @@
 
 - 👀 I’m interested in everything music, software, and technology.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 💞️ I’m looking to collaborate on any of my open source projects here on [Github](https://github.com/christianhelle). To name a few, [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen), [AutoFaker](https://github.com/christianhelle/autofaker), [Refitter](https://github.com/christianhelle/refitter), [HTTP File Generator](https://github.com/christianhelle/httpgenerator/), [cURL Request Generator](https://github.com/christianhelle/curlgenerator/), [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen), [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
+- 💞️ I’m looking to collaborate on any of my open source projects here on [Github](https://github.com/christianhelle). To name a few:
+  - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen)
+  - [AutoFaker](https://github.com/christianhelle/autofaker)
+  - [Refitter](https://github.com/christianhelle/refitter)
+  - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
+  - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
+  - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
+  - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
