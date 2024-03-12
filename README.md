@@ -13,6 +13,7 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [Generate cURL requests from OpenAPI specifications](https://christianhelle.com/2024/01/curl-request-generator.html)
 #### [Generate .http files from OpenAPI specifications](https://christianhelle.com/2023/11/http-file-generator.html)
 #### [Publish Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/publish-vsmac-extensions-using-github-actions.html)
 #### [Build Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/build-vsmac-extensions-using-github-actions.html)
