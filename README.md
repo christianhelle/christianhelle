@@ -10,6 +10,7 @@
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
   - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
+  - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
