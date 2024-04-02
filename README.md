@@ -11,6 +11,7 @@
   - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
   - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/)
+  - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
