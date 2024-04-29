@@ -15,6 +15,8 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [Cosmos DB, Event Sourcing, and CQRS with A Touch of Class](https://christianhelle.com/2024/02/atc-cosmos-eventstore-cqrs.html)
+#### [Merge multiple OpenAPI documents using Microsoft OpenAPI.NET](https://christianhelle.com/2024/02/merge-multiple-openapi-documents.html)
 #### [Generate cURL requests from OpenAPI specifications](https://christianhelle.com/2024/01/curl-request-generator.html)
 #### [Generate .http files from OpenAPI specifications](https://christianhelle.com/2023/11/http-file-generator.html)
 #### [Publish Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/publish-vsmac-extensions-using-github-actions.html)
