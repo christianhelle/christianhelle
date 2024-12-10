@@ -29,6 +29,12 @@
 #### [Orchestrated ETL Design Pattern for Apache Spark and Databricks](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;09&#x2F;orchestrated-etl.html)
 <!--END_SECTION:feed-->
 
+### Stats
+
+[<img align="center" width="420" src="./metrics_left.svg">](#)
+[<img align="center" width="420" src="./metrics_right.svg">](#)
+
+<!--
 <p>
 <picture>
   <source
@@ -49,3 +55,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianhelle&card_width=200&hide_current_streak=true&hide_longest_streak=true" />
 </picture>
 </p>
+-->
