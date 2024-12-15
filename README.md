@@ -15,6 +15,8 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [Generate Refit interfaces from OpenAPI specifications on build time with MSBuild](https://christianhelle.com/2024/11/refitter-msbuild.html)
+#### [Generate .http files and .env from OpenAPI specifications](https://christianhelle.com/2024/05/generate-http-file-env.html)
 #### [Cosmos DB, Event Sourcing, and CQRS with A Touch of Class](https://christianhelle.com/2024/02/atc-cosmos-eventstore-cqrs.html)
 #### [Merge multiple OpenAPI documents using Microsoft OpenAPI.NET](https://christianhelle.com/2024/02/merge-multiple-openapi-documents.html)
 #### [Generate cURL requests from OpenAPI specifications](https://christianhelle.com/2024/01/curl-request-generator.html)
