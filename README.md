@@ -14,6 +14,7 @@
   - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery)
   - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery)
   - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
+  - [HTTP File Runner](https://github.com/christianhelle/httprunner)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
