@@ -18,6 +18,8 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [Run .http files from the command line using a fast, small, single binary tool](https://christianhelle.com/2025/06/http-file-runner-zig-tool.html)
+#### [SQLite Query Analyzer - A Decade-Long Journey with C++ and Qt](https://christianhelle.com/2025/05/sqlite-query-analyzer-revisited.html)
 #### [Azure Entra ID Authentication with Scalar and .NET 9.0](https://christianhelle.com/2025/01/scalar-azure-authentication.html)
 #### [Testing Refit interfaces using Alba](https://christianhelle.com/2025/01/testing-refit-interfaces-using-alba.html)
 #### [Generate .http files with IntelliJ tests from OpenAPI specifications](https://christianhelle.com/2024/12/generate-http-files-with-intellij-tests.html)
