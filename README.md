@@ -16,6 +16,7 @@
   - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
   - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
+  - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
