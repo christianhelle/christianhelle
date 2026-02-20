@@ -18,6 +18,7 @@
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen)
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
+  - [clocz](https://github.com/christianhelle/clocz)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
