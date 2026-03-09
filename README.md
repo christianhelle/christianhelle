@@ -19,8 +19,8 @@
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen)
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
   - [Argiope](https://github.com/christianhelle/argiope)
-  - [clocz](https://github.com/christianhelle/clocz)
-  - [zic](https://github.com/christianhelle/zic)
+  - [Clocz](https://github.com/christianhelle/clocz)
+  - [ZigFaker](https://github.com/christianhelle/zigfaker)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
