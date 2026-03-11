@@ -30,6 +30,16 @@
 
 #### [Building a web crawler and broken link detector in Zig](https://christianhelle.com/2026/03/building-argiope-web-crawler-broken-link-detector.html)
 
+#### [Modernizing REST API Client Code Generator with the New Visual Studio Extensibility Model](https://christianhelle.com/2026/02/building-rest-api-client-code-generator-with-new-vs-extensibility-model.html)
+
+#### [Building a fast line of code counter app in Zig](https://christianhelle.com/2026/02/building-clocz-zig-line-counter.html)
+
+#### [Integration Testing REST APIs with .http Files and HTTP File Runner](https://christianhelle.com/2026/01/integration-testing-with-httprunner.html)
+
+#### [Rewriting HTTP File Runner in Rust (from Zig)](https://christianhelle.com/2025/10/httprunner-zig-to-rust-rewrite.html)
+
+#### [HttpTestGen - .http file testing framework for .NET](https://christianhelle.com/2025/09/httptestgen-dotnet-testing-framework.html)
+
 #### [Run .http files from the command line using a fast, small, single binary tool](https://christianhelle.com/2025/06/http-file-runner-zig-tool.html)
 
 #### [A faster Azure DevOps CLI written in Rust](https://christianhelle.com/2025/06/azure-devops-cli.html)
@@ -51,24 +61,6 @@
 #### [Merge multiple OpenAPI documents using Microsoft OpenAPI.NET](https://christianhelle.com/2024/02/merge-multiple-openapi-documents.html)
 
 #### [Generate cURL requests from OpenAPI specifications](https://christianhelle.com/2024/01/curl-request-generator.html)
-
-#### [Generate .http files from OpenAPI specifications](https://christianhelle.com/2023/11/http-file-generator.html)
-
-#### [Publish Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/publish-vsmac-extensions-using-github-actions.html)
-
-#### [Build Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/build-vsmac-extensions-using-github-actions.html)
-
-#### [Extending Visual Studio for Mac 2022](https://christianhelle.com/2023/03/extending-vsmac.html)
-
-#### [Generate Refit interfaces from OpenAPI specifications using Refitter](https://christianhelle.com/2023/03/refitter.html)
-
-#### [Atc.Cosmos - Azure Cosmos DB with A Touch of Class](https://christianhelle.com/2023/02/atc-cosmos.html)
-
-#### [Generate REST API Clients using Visual Studio and Microsoft Kiota](https://christianhelle.com/2023/02/visual-studio-kiota.html)
-
-#### [AutoFaker - A Python library to minimize unit testing ceremony](https://christianhelle.com/2022/10/autofaker.html)
-
-#### [Orchestrated ETL Design Pattern for Apache Spark and Databricks](https://christianhelle.com/2022/09/orchestrated-etl.html)
 <!--END_SECTION:feed-->
 
 ### Stats
