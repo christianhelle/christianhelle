@@ -24,6 +24,12 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
+#### [From AI-Assisted Code Completion to Agentic Software Engineering](https://christianhelle.com/2026/03/from-ai-assisted-code-completion-to-agentic-engineering.html)
+
+#### [ZigFaker - A Zig library to minimize unit testing ceremony](https://christianhelle.com/2026/03/zigfaker.html)
+
+#### [Building a web crawler and broken link detector in Zig](https://christianhelle.com/2026/03/building-argiope-web-crawler-broken-link-detector.html)
+
 #### [Run .http files from the command line using a fast, small, single binary tool](https://christianhelle.com/2025/06/http-file-runner-zig-tool.html)
 
 #### [A faster Azure DevOps CLI written in Rust](https://christianhelle.com/2025/06/azure-devops-cli.html)
@@ -52,17 +58,17 @@
 
 #### [Build Visual Studio for Mac Extensions using Github Actions](https://christianhelle.com/2023/03/build-vsmac-extensions-using-github-actions.html)
 
-#### [Extending Visual Studio for Mac 2022](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;extending-vsmac.html)
+#### [Extending Visual Studio for Mac 2022](https://christianhelle.com/2023/03/extending-vsmac.html)
 
-#### [Generate Refit interfaces from OpenAPI specifications using Refitter](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;03&#x2F;refitter.html)
+#### [Generate Refit interfaces from OpenAPI specifications using Refitter](https://christianhelle.com/2023/03/refitter.html)
 
-#### [Atc.Cosmos - Azure Cosmos DB with A Touch of Class](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;02&#x2F;atc-cosmos.html)
+#### [Atc.Cosmos - Azure Cosmos DB with A Touch of Class](https://christianhelle.com/2023/02/atc-cosmos.html)
 
-#### [Generate REST API Clients using Visual Studio and Microsoft Kiota](https:&#x2F;&#x2F;christianhelle.com&#x2F;2023&#x2F;02&#x2F;visual-studio-kiota.html)
+#### [Generate REST API Clients using Visual Studio and Microsoft Kiota](https://christianhelle.com/2023/02/visual-studio-kiota.html)
 
-#### [AutoFaker - A Python library to minimize unit testing ceremony](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;10&#x2F;autofaker.html)
+#### [AutoFaker - A Python library to minimize unit testing ceremony](https://christianhelle.com/2022/10/autofaker.html)
 
-#### [Orchestrated ETL Design Pattern for Apache Spark and Databricks](https:&#x2F;&#x2F;christianhelle.com&#x2F;2022&#x2F;09&#x2F;orchestrated-etl.html)
+#### [Orchestrated ETL Design Pattern for Apache Spark and Databricks](https://christianhelle.com/2022/09/orchestrated-etl.html)
 <!--END_SECTION:feed-->
 
 ### Stats
