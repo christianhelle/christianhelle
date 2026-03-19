@@ -27,6 +27,8 @@
 <!--START_SECTION:feed-->
 #### [From AI-Assisted Code Completion to Agentic Software Engineering](https://christianhelle.com/2026/03/from-ai-assisted-code-completion-to-agentic-engineering.html)
 
+#### [Generate a Changelog from GitHub Actions](https://christianhelle.com/2026/03/generate-changelog-from-github-actions.html)
+
 #### [ZigFaker - A Zig library to minimize unit testing ceremony](https://christianhelle.com/2026/03/zigfaker.html)
 
 #### [Building a web crawler and broken link detector in Zig](https://christianhelle.com/2026/03/building-argiope-web-crawler-broken-link-detector.html)
@@ -37,9 +39,15 @@
 
 #### [Integration Testing REST APIs with .http Files and HTTP File Runner](https://christianhelle.com/2026/01/integration-testing-with-httprunner.html)
 
+#### [Azure Kusto with Cabazure](https://christianhelle.com/2025/12/azure-kusto-with-cabazure.html)
+
+#### [Building a Github Changelog Generator in Zig](https://christianhelle.com/2025/11/building-a-github-changelog-generator-in-zig.html)
+
 #### [Rewriting HTTP File Runner in Rust (from Zig)](https://christianhelle.com/2025/10/httprunner-zig-to-rust-rewrite.html)
 
 #### [HttpTestGen - .http file testing framework for .NET](https://christianhelle.com/2025/09/httptestgen-dotnet-testing-framework.html)
+
+#### [Azure Messaging with Cabazure](https://christianhelle.com/2025/08/azure-messaging-with-cabazure.html)
 
 #### [Run .http files from the command line using a fast, small, single binary tool](https://christianhelle.com/2025/06/http-file-runner-zig-tool.html)
 
