@@ -10,5 +10,5 @@ jobs:
         with:
           feed-url: https://christianhelle.com/feed.xml
           readme-section: feed
-          max: 6
+          max: 17
           template: "#### [{{ title }}]({{ link }})\n\n"
