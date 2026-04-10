@@ -10,5 +10,6 @@ jobs:
         with:
           feed-url: https://christianhelle.com/feed.xml
           readme-section: feed
-          max: 6
+          # Keep the full set of current 2025-2026 posts in the generated README section.
+          max: 19
           template: "#### [{{ title }}]({{ link }})\n\n"
