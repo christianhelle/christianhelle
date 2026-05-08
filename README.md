@@ -25,7 +25,7 @@
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
-#### [Reviving a 20 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-20-year-old-xna-framework-game-with-monogame.html)
+#### [Reviving a 15 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-15-year-old-xna-framework-game-with-monogame.html)
 
 #### [From AI-Assisted Code Completion to Agentic Software Engineering](https://christianhelle.com/2026/03/from-ai-assisted-code-completion-to-agentic-engineering.html)
 
