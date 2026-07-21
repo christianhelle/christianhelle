@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Christian Resma Helle
 
 - 👀 I’m interested in everything music, software, and technology.
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [Zig](https://ziglang.org/), and [Go](https://go.dev/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Zig](https://ziglang.org/)
 - 💞️ I’m looking to collaborate on any of my open source projects here on [Github](https://github.com/christianhelle). To name a few:
   - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen)
   - [AutoFaker](https://github.com/christianhelle/autofaker)
