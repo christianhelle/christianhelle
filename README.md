@@ -22,6 +22,7 @@
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz)
   - [ZigFaker](https://github.com/christianhelle/zigfaker)
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr)
+  - [Puny](https://github.com/christianhelle/puny)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
