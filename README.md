@@ -23,6 +23,7 @@
   - [ZigFaker](https://github.com/christianhelle/zigfaker)
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr)
   - [Puny](https://github.com/christianhelle/puny)
+  - [whereiz](https://github.com/christianhelle/whereiz)
 
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
