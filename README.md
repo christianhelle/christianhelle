@@ -35,6 +35,10 @@
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr)
   - [whereiz](https://github.com/christianhelle/whereiz)
 
+  **C++ and Qt**
+
+  - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery)
+
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 #### [Reviving a 15 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-15-year-old-xna-framework-game-with-monogame.html)
