@@ -20,6 +20,11 @@
   - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
 
+  **Rust and .NET**
+
+  - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
+  - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
+
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
   - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope)
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz)
