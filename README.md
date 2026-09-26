@@ -39,6 +39,10 @@
 
   - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery)
 
+  **Python**
+
+  - [AutoFaker](https://github.com/christianhelle/autofaker)
+
 ### 📙 Recent Blog Posts
 <!--START_SECTION:feed-->
 #### [Reviving a 15 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-15-year-old-xna-framework-game-with-monogame.html)
