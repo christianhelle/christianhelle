@@ -3,19 +3,16 @@
 - 👀 I’m interested in everything music, software, and technology.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [Zig](https://ziglang.org/)
 - 💞️ I’m looking to collaborate on any of my open source projects here on [Github](https://github.com/christianhelle). To name a few:
+
+  **.NET**
+
   - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen)
-  - [AutoFaker](https://github.com/christianhelle/autofaker)
   - [Refitter](https://github.com/christianhelle/refitter)
-  - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
-  - [HTTP File Runner](https://github.com/christianhelle/httprunner)
-  - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
   - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
   - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/)
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen)
   - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery)
-  - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery)
-  - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
   - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope)
