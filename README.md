@@ -25,12 +25,14 @@
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
 
+  **Zig**
+
+  - [Puny](https://github.com/christianhelle/puny)
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
   - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope)
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz)
   - [ZigFaker](https://github.com/christianhelle/zigfaker)
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr)
-  - [Puny](https://github.com/christianhelle/puny)
   - [whereiz](https://github.com/christianhelle/whereiz)
 
 ### 📙 Recent Blog Posts
