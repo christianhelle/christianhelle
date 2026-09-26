@@ -35,6 +35,7 @@
   **C++ and Qt**
 
   - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery)
+  - [SQL Query Analyzer](https://github.com/christianhelle/sqlquery)
 
   **Python**
 
