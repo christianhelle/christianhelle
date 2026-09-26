@@ -17,11 +17,8 @@
 
   **Rust**
 
-  - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
-
-  **Rust and .NET**
-
+  - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
 
@@ -44,7 +41,9 @@
   - [AutoFaker](https://github.com/christianhelle/autofaker)
 
 ### 📙 Recent Blog Posts
+
 <!--START_SECTION:feed-->
+
 #### [Reviving a 15 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-15-year-old-xna-framework-game-with-monogame.html)
 
 #### [From AI-Assisted Code Completion to Agentic Software Engineering](https://christianhelle.com/2026/03/from-ai-assisted-code-completion-to-agentic-engineering.html)
