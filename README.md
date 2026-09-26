@@ -14,6 +14,12 @@
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen)
   - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery)
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
+
+  **Rust**
+
+  - [HTTP File Runner](https://github.com/christianhelle/httprunner)
+  - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
+
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
   - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope)
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz)
