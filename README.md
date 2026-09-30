@@ -21,6 +21,7 @@
   - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
+  - [Termos - Native TUI Azure Cosmos DB Explorer](https://github.com/christianhelle/termos)
 
   **Zig**
 
