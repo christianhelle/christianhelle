@@ -21,7 +21,7 @@
   - [HTTP File Runner](https://github.com/christianhelle/httprunner) - Runs .http request files as a fast, small, cross-platform native Rust CLI.
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/) - Generates .http request files from OpenAPI specifications.
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/) - Generates cURL requests from OpenAPI specifications.
-  - [Termos - Native TUI Azure Cosmos DB Explorer](https://github.com/christianhelle/termos)
+  - [Termos - Native TUI Azure Cosmos DB Explorer](https://github.com/christianhelle/termos) - A three-pane TUI for browsing Cosmos DB accounts, containers, and JSON documents, with query and emulator support.
 
   **Zig**
 
