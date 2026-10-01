@@ -8,7 +8,7 @@
 
   - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio code generators for Swagger and OpenAPI specifications.
   - [Refitter](https://github.com/christianhelle/refitter) - Generates Refit interfaces and contracts from OpenAPI specifications.
-  - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
+  - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen) - Generates JMeter test plans from ASP.NET Core Web APIs.
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
   - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/)
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen)
