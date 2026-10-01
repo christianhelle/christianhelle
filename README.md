@@ -20,7 +20,7 @@
   - [Azure DevOps CLI](https://github.com/christianhelle/azdocli) - A native, standalone Rust CLI for working with Azure DevOps.
   - [HTTP File Runner](https://github.com/christianhelle/httprunner) - Runs .http request files as a fast, small, cross-platform native Rust CLI.
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/) - Generates .http request files from OpenAPI specifications.
-  - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
+  - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/) - Generates cURL requests from OpenAPI specifications.
   - [Termos - Native TUI Azure Cosmos DB Explorer](https://github.com/christianhelle/termos)
 
   **Zig**
