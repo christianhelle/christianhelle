@@ -11,7 +11,7 @@
   - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen) - Generates JMeter test plans from ASP.NET Core Web APIs.
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen) - A Visual Studio custom tool that creates strongly typed helpers for localized .ResW resources.
   - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/) - Combines external OpenAPI references into one document for .NET.
-  - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen) - A .NET source generator that turns .http requests into xUnit or TUnit tests at compile time.
+  - [HttpTestGen](https://github.com/christianhelle/httptestgen) - A .NET source generator that turns .http requests into xUnit or TUnit tests at compile time.
   - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery) - A lightweight tool for querying and modifying SQL Compact 3.0, 3.1, 3.5, and 4.0 databases.
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient) - An async .NET client for Denmark's Energi Data Service day-ahead prices and DK1/DK2 price areas.
 
@@ -21,14 +21,14 @@
   - [HTTP File Runner](https://github.com/christianhelle/httprunner) - Runs .http request files as a fast, small, cross-platform native Rust CLI.
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/) - Generates .http request files from OpenAPI specifications.
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/) - Generates cURL requests from OpenAPI specifications.
-  - [Termos - Native TUI Azure Cosmos DB Explorer](https://github.com/christianhelle/termos) - A three-pane TUI for browsing Cosmos DB accounts, containers, and JSON documents, with query and emulator support.
+  - [Termos](https://github.com/christianhelle/termos) - A three-pane TUI for browsing Cosmos DB accounts, containers, and JSON documents, with query and emulator support.
 
   **Zig**
 
   - [Puny](https://github.com/christianhelle/puny) - A minimal native coding agent with built-in codebase tools and support for local and hosted models.
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig) - Generates Zig API clients and data models from OpenAPI specifications.
-  - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope) - A Zig crawler that finds broken links, downloads site images, and creates reports and browsable image pages.
-  - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz) - A multithreaded Zig CLI that counts code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
+  - [Argiope](https://github.com/christianhelle/argiope) - A Zig crawler that finds broken links, downloads site images, and creates reports and browsable image pages.
+  - [Clocz](https://github.com/christianhelle/clocz) - A multithreaded Zig CLI that counts code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
   - [ZigFaker](https://github.com/christianhelle/zigfaker) - A Zig library for reducing setup and arrange boilerplate in unit tests.
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr) - A native CLI that builds changelogs from GitHub tags, pull requests, and issues.
   - [whereiz](https://github.com/christianhelle/whereiz) - A Windows-only whereis-style tool that shows how executables and DLLs resolve through Windows search order.
