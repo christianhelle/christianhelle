@@ -26,7 +26,7 @@
   **Zig**
 
   - [Puny](https://github.com/christianhelle/puny) - A minimal native coding agent with built-in codebase tools and support for local and hosted models.
-  - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig)
+  - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig) - Generates Zig API clients and data models from OpenAPI specifications.
   - [Argiope - Web crawler and image downloader](https://github.com/christianhelle/argiope)
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz)
   - [ZigFaker](https://github.com/christianhelle/zigfaker)
