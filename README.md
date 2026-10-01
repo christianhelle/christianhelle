@@ -40,7 +40,7 @@
 
   **Python**
 
-  - [AutoFaker](https://github.com/christianhelle/autofaker)
+  - [AutoFaker](https://github.com/christianhelle/autofaker) - A Python library for reducing setup and arrange boilerplate in unit tests.
 
 ### 📙 Recent Blog Posts
 
