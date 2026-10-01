@@ -17,7 +17,7 @@
 
   **Rust**
 
-  - [Azure DevOps CLI](https://github.com/christianhelle/azdocli)
+  - [Azure DevOps CLI](https://github.com/christianhelle/azdocli) - A native, standalone Rust CLI for working with Azure DevOps.
   - [HTTP File Runner](https://github.com/christianhelle/httprunner)
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/)
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/)
