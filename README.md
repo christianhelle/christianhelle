@@ -12,7 +12,7 @@
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen) - A Visual Studio custom tool that creates strongly typed helpers for localized .ResW resources.
   - [Multi Document Reader for OpenAPI.NET](https://github.com/christianhelle/oasreader/) - Combines external OpenAPI references into one document for .NET.
   - [HttpTestGen - .http File Testing Framework](https://github.com/christianhelle/httptestgen) - A .NET source generator that turns .http requests into xUnit or TUnit tests at compile time.
-  - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery)
+  - [SQL Compact Query Analyzer](https://github.com/christianhelle/sqlcequery) - A lightweight tool for querying and modifying SQL Compact 3.0 through 4.0 databases.
   - [Energi Data Service Client for .NET](https://github.com/christianhelle/edsclient)
 
   **Rust**
