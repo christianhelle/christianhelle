@@ -6,7 +6,7 @@
 
   **.NET**
 
-  - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen)
+  - [REST API Client Code Generator](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio code generators for Swagger and OpenAPI specifications.
   - [Refitter](https://github.com/christianhelle/refitter)
   - [JMeter Test Plan Generator](https://github.com/christianhelle/jmetercodegen)
   - [ResW File Code Generator](https://github.com/christianhelle/reswcodegen)
