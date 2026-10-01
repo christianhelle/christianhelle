@@ -36,7 +36,7 @@
   **C++ and Qt**
 
   - [SQLite Query Analyzer](https://github.com/christianhelle/sqlitequery) - A fast, lightweight cross-platform GUI for querying and modifying SQLite databases.
-  - [SQL Query Analyzer](https://github.com/christianhelle/sqlquery)
+  - [SQL Query Analyzer](https://github.com/christianhelle/sqlquery) - A cross-platform GUI for querying and modifying SQLite, PostgreSQL, SQL Server, MariaDB, and MySQL databases.
 
   **Python**
 
