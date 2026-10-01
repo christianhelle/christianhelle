@@ -31,7 +31,7 @@
   - [Clocz - Line of Code Counter](https://github.com/christianhelle/clocz) - A multithreaded Zig CLI that counts code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
   - [ZigFaker](https://github.com/christianhelle/zigfaker) - A Zig library for reducing setup and arrange boilerplate in unit tests.
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr) - A native CLI that builds changelogs from GitHub tags, pull requests, and issues.
-  - [whereiz](https://github.com/christianhelle/whereiz)
+  - [whereiz](https://github.com/christianhelle/whereiz) - A Windows-only whereis-style tool that shows how executables and DLLs resolve through Windows search order.
 
   **C++ and Qt**
 
