@@ -1,0 +1,47 @@
+# Visit https://github.com/stats-organization/github-readme-stats-action for full reference
+name: README stats cards
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  readme-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=christianhelle&show_icons=true&include_all_commits=true&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.PAT }}
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=christianhelle&show_icons=true&include_all_commits=true&count_private=true&theme=dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.PAT }}
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=christianhelle&layout=compact&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT }}
+      - name: Top languages card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=christianhelle&layout=compact&langs_count=8&theme=dark
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.PAT }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats cards [skip ci]" || exit 0
+          git push
