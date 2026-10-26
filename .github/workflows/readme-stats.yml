@@ -28,16 +28,16 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=christianhelle&layout=compact&langs_count=8
+          options: username=christianhelle&layout=compact&langs_count=8&hide=mustache,antlr
           path: profile/top-langs.svg
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=christianhelle&layout=compact&langs_count=8&theme=dark
+          options: username=christianhelle&layout=compact&langs_count=8&hide=mustache,antlr&theme=dark
           path: profile/top-langs-dark.svg
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
