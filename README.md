@@ -23,6 +23,7 @@
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/) - Generates cURL requests from OpenAPI specifications.
   - [Termos](https://github.com/christianhelle/termos) - A native TUI version of the Azure Cosmos DB Explorer
   - [Airdash](https://github.com/christianhelle/airdash) - A cross-platform desktop app alternative to the Airthings Web Dashboard.
+  - [tuilook](https://github.com/christianhelle/tuilook) - A TUI mail client for Outlook.com and Microsoft 365.
 
   **Zig**
 
