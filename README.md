@@ -22,6 +22,7 @@
   - [HTTP File Generator](https://github.com/christianhelle/httpgenerator/) - Generates .http request files from OpenAPI specifications.
   - [cURL Request Generator](https://github.com/christianhelle/curlgenerator/) - Generates cURL requests from OpenAPI specifications.
   - [Termos](https://github.com/christianhelle/termos) - A native TUI version of the Azure Cosmos DB Explorer
+  - [Airdash](https://github.com/christianhelle/airdash) - A cross-platform desktop app alternative to the Airthings Web Dashboard.
 
   **Zig**
 
