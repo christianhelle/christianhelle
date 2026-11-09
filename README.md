@@ -24,7 +24,7 @@
   - [Termos](https://github.com/christianhelle/termos) - A native TUI version of the Azure Cosmos DB Explorer
   - [Airdash](https://github.com/christianhelle/airdash) - A cross-platform desktop app alternative to the Airthings Web Dashboard.
   - [Tuilook](https://github.com/christianhelle/tuilook) - A TUI mail and calendar client for Outlook.com and Microsoft 365.
-  - [TUICalc](https://github.com/christianhelle/tuicalc) - A TUI spreadsheet editor that supports .xlsx and OpenDocument `.ods`, `.ots`, and `.fods` workbooksfiles.
+  - [TUICalc](https://github.com/christianhelle/tuicalc) - A TUI spreadsheet editor that supports `.xlsx` and OpenDocument `.ods`, `.ots`, and `.fods` workbooksfiles.
 
   **Zig**
 
