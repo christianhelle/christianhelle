@@ -32,7 +32,7 @@
   - [Puny](https://github.com/christianhelle/puny) - A minimal native coding agent with support for local (LM Studio, Unsloth, Ollama) and hosted models (OpenCode, Github, Ollama Cloud).
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig) - Generates Zig API clients and data models from OpenAPI specifications.
   - [Argiope](https://github.com/christianhelle/argiope) - A Zig crawler that finds broken links, downloads site images, and creates reports and browsable image pages.
-  - [Clocz](https://github.com/christianhelle/clocz) - A multithreaded Zig CLI that counts code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
+  - [Clocz](https://github.com/christianhelle/clocz) - A CLI tool for counting code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
   - [ZigFaker](https://github.com/christianhelle/zigfaker) - A Zig library for reducing setup and arrange boilerplate in unit tests.
   - [Github Changelog Generator](https://github.com/christianhelle/chlogr) - A native CLI that builds changelogs from GitHub tags, pull requests, and issues.
   - [whereiz](https://github.com/christianhelle/whereiz) - A Windows-only whereis-style tool that shows how executables and DLLs resolve through Windows search order.
