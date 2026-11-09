@@ -29,7 +29,7 @@
   **Zig**
 
   - [GitHub SDK for Zig](https://github.com/christianhelle/github-sdk-for-zig) - A dependency-free Zig client for the GitHub REST API.
-  - [Puny](https://github.com/christianhelle/puny) - A minimal coding agent with support for local (LM Studio, Unsloth, Ollama) and hosted models (OpenCode, Github, Ollama Cloud).
+  - [Puny](https://github.com/christianhelle/puny) - A tiny coding agent with support for local (LM Studio, Unsloth, Ollama) and hosted models (OpenCode, Github, Ollama Cloud).
   - [OpenAPI to Zig Code Generator](https://github.com/christianhelle/openapi2zig) - Generates Zig API clients and data models from OpenAPI specifications.
   - [Argiope](https://github.com/christianhelle/argiope) - A Zig crawler that finds broken links, downloads site images, and creates reports and browsable image pages.
   - [Clocz](https://github.com/christianhelle/clocz) - A CLI tool for counting code, comment, and blank lines across 60+ languages and exports text, Markdown, or HTML reports.
