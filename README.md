@@ -50,6 +50,8 @@
 
 <!--START_SECTION:feed-->
 
+#### [Exceptionless Client for Rust — Capture Errors, Logs, and Feature Usage Events](https://christianhelle.com/2026/05/exceptionless-client-for-rust.html)
+
 #### [Reviving a 15 year old XNA Framework game with MonoGame](https://christianhelle.com/2026/03/reviving-15-year-old-xna-framework-game-with-monogame.html)
 
 #### [From AI-Assisted Code Completion to Agentic Software Engineering](https://christianhelle.com/2026/03/from-ai-assisted-code-completion-to-agentic-engineering.html)
