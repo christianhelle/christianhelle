@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Christian Helle&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 948, Total Commits  : 122066, Total PRs: 1959, Total Issues: 452, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 948, Total Commits  : 122087, Total PRs: 1960, Total Issues: 452, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.312810781423038;
+        stroke-dashoffset: 6.312810781421645;
       }
     }
   
